@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "deadbolt-lock-jec",
+  "private_key_id": "5fdecc9659c45b90aa62398f889f329c26e5522d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDAs+YfKpdCly+q\n6gQeCc5Gbysf/qSNY+pT49owDtxF+v8lA9f4oaS827E0ao5Ke0AgDfOaSxkhLoVU\nH2pbuU3Ncczy4bzT5YjKymgMUm2UNUAqTGogSbfyMtkHHMJVdUNyiOLT9Yl0ifI+\nBjndmYtk5eFOlhhftgJO7ySRYmpVPE3DJJ6b4cwwU+Zz1moJCHdDn5SY1l72im+l\nzMI/S259U5Us+oZNFE/ZmvcTtLELHDxJ+GzkJe8v+lGxGfLMkrMVaCo3Ez0SF5W5\nybzDDa5HSNiUzkkBJ8rlPS3mGOUBRpUaYgbDtmzgKv9/GM+HCCzyTjYd7NOal1Uj\njvgWAltpAgMBAAECggEABL5nY2j5RlNB6GvgaOvLBn0BQD70zQK/fF8+VvYssIyh\neCdGscKrIArExPWvdeOs5DhRTbQ8axtrZPlgTsYwy6ZZ88VmsFNk/IBpH8GHnBeh\nMir4pop61khiz/vvVREUKJprgnYeGY6or+OkspQpF27ylSxlryh9vzTACMcV90eZ\nnBKgIQu2oAQPx3O2W/A7Li0Bc/8iNHs0i1PNK4X8f1VGMbxxuVSJSA+5Z3gWc5T2\nXQ+IqtQElVSakRyYP7VWmqDR+3SCIgboOa4QdFxJhJnQxPUE5aYR8CcxgKOqjGKV\n+1Wm27yWmhuLBZHqLiV3h7xXSAKtCPLKTlHzj0gbMQKBgQDxTJMIs4bR7aDIjWCx\n1PVWNwGf1sh2b0KrpJnBz0laeQE9ECf0ZqvKvjlviNU6fhlhUeLyPRYvg1xEDI9Q\nDx8tkAVJuaokkzS9sOJwbZqVIXcytS32VwuWH4DwtmkS8xfAaUolmjUrR/MYzXGb\nkuGePz6hnvGbK3cZtX442X6tWQKBgQDMcWPjzK7cE0PM99MYmr3C1C9qgk6uPU+L\ndl049nqtsaWQEKFCTI5SwC3571NbzW2vtrBeYtUFHcDVAwtu8WOGWfrXdwmAcLnC\n+/HxqjiPqaLDX0v+GA1ExoIBz8AyttY97ZaNwCmp3Oc0WmXhAbjXx0bwtz1ZtooE\nuVBF7/IMkQKBgHYNT5YfNuN3zYSw3lDCbnEKoknP6+09i7Gr6umN/0Y7EycLw3Bn\n1r5vCGyP1joyvToGtPBsgHEoZDiKqIazjz5cSqoCIsKYHmJ7qpz0kn9JiyaMy3rM\npUeCDDQ4GfoCYmlpWbRB2KdfIQjOYjmJx8YDDSJHP875meBDEgjAJ6CpAoGADriP\nd8SyRpiAhk7F/XyO82tx6pptbfBuPN2OAt8EoGMtR71azzpR+TVrWhbYisC1CDUA\naBt3uUGWNABfH2L0RqVOAZvJrFzxk0+u8TbPkdCmLqk7AJXcxroAfH7oGP6/WIA2\nGgjfNyL35vYnZddI5wirXAPlwAL71zE8zXxkknECgYEApZSWh+5RA4G3xpNban3W\nUbvYkjeB6Omfr1I7w0hcRQWXPa8+5Pw0tlWKk00smJreAhz5Jw/gbbmoyWXaTd82\nHsG/yXkhfdS/RnFBJ7ZElTGnpwst83Bmhut+aXXW7mD1q75avbHihleYsiSu4bFb\nFXa8+PSzyGs1zksallfJTEs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "jec-deadbolt@deadbolt-lock-jec.iam.gserviceaccount.com",
+  "client_id": "101240069612348701778",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jec-deadbolt%40deadbolt-lock-jec.iam.gserviceaccount.com"
+}
